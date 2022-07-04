@@ -11,7 +11,7 @@ const home = () => {
       </Head>
       <Navbar />
       <div className={styles.main}>
-        <h2>This is a home page</h2>
+        <h2>This is home page</h2>
       </div>
     </div>
   );

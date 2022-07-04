@@ -13,7 +13,7 @@ const Styled = () => {
       <div className={styles.main}>
         <h3> This is styled using GLOBAL css</h3>
         <div className={styles.diffstyles}>
-          <h3> This is styled using COPONENT-LEVEL css</h3>
+          <h3> This is styled using COMPONENT-LEVEL css</h3>
         </div>
       </div>
     </div>
